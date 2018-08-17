@@ -1,0 +1,3 @@
+rootProject.name = 'gitnew'
+
+include ':app'
